@@ -1,10 +1,23 @@
 *{
-    padding: 0;
     margin: 0;
-    box-sizing: border-box;
+    padding: 0;
+    box-sizing: 0;
 
 }
 html{
-    font-family: monospace;
     font-size: 10px;
+    font-family: 'Quicksand', sans-serif;
+    color: var(--color2);
 }
+:root{
+    --color1 : rgba(255,113,117,1.0);
+
+    --color2 : rgba(31,37,50,1.0);
+    
+    --color3 : rgba(88,92,102,1.0);
+    
+    --color4 : rgba(254,247,248,1.0);
+
+    --color5 : rgb(247, 202, 202);
+}
+    
