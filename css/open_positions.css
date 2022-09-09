@@ -1,0 +1,16 @@
+.Open-positions{
+    height: 30rem;
+    padding: 2rem;
+    background-color: var(--color1);
+}
+.Open-positions .subtitulo-line{
+    color: var(--color4);
+}
+.Open-positions h2{
+    color: var(--color4);
+    font-size: 4rem;
+    margin-top: 2rem;
+}
+.Open-positions p{
+    font-size: 1.6rem;
+}
