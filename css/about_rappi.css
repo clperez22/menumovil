@@ -5,14 +5,14 @@
 .about-rappi .titulo{
     width: 100;
     background-color: var(--color5);
-    padding: 4rem 2rem;
+    padding: 2rem 2rem;
 }
 .subtitulo-line{
     display: flex;
     align-items: center;
     font-size: 2rem;
     font-weight: 100;
-    padding: 4rem 1rem;
+    padding: 1rem 1rem;
 }
 /*Diseño de la etiqueta de enumeración*/
 .subtitulo-line hr{
@@ -48,6 +48,7 @@
     background-color: var(--color1);
     color: aliceblue;
     width: 20rem;
+    height: 4rem;
     border-radius: 10rem;
     padding: 3rem;
     margin-top: 2rem;
@@ -74,4 +75,32 @@
     display: flex;
     align-items: center;
     justify-content: center;
+}
+@media only screen and (min-width: 1200px){
+    .about-rappi{
+        width: 80%;
+        margin: auto;
+
+        display: flex;
+        
+    }
+    .about-rappi .titulo{
+        width: 40%;
+    }
+    .contenido{
+        width: 60%;
+    }
+    .botones{
+        width: 100%;
+        margin-top: 10rem;
+        flex-direction: row;
+        justify-content: left;
+    }
+    .btn1{
+        margin-top: 0;
+    }
+    .btn2{
+        margin-top: 0;
+        margin-left: 2rem;
+    }
 }

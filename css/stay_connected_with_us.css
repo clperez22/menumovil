@@ -1,0 +1,176 @@
+.item-1{
+    width: 100%;
+    height: 40rem;
+    background-color: var(--color1);
+    padding: 4rem;
+}
+.item-1 img{
+    width: 6rem;
+    
+}
+.item-1 h3{
+    font-size: 2.5rem;
+    color: var(--color4);
+    margin-top: 3rem;
+}
+.item-1 p{
+    font-size: 1.5rem;
+    margin-top: 3rem;
+    line-height: 3rem;
+}
+.item-1 a{
+    text-decoration: none;
+    display: flex;
+    border: 2.5px solid var(--color4);
+    border-radius: 10rem;
+    width: 15rem;
+    padding: 1rem;
+    margin-top: 3rem;
+    color: var(--color4);
+    
+    font-size: 1.8rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/***************************************/
+.item-2{
+    width: 100%;
+    height: 40rem;
+    padding: 4rem;
+    margin-top: 5rem;
+    background-color:#5758D0;
+}
+.item-2 h3{
+    font-size: 2.5rem;
+    color: var(--color4);
+}
+.item-2 h4{
+    font-size: 6rem;
+    color: var(--color4);
+    margin-top: 4rem;
+}
+.item-2 h1{
+    font-size: 1.5rem;
+    color: var(--color4);
+}
+.item-2 h2{
+    font-size: 1.5rem;
+    color: var(--color4);
+    margin-top: 12rem;
+}
+/***************************************/
+.item-3{
+    width: 100%;
+    height: 40rem;
+    padding: 4rem;
+    margin-top: 5rem;
+    background-color:#157EF8;
+}
+.item-3 h3{
+    font-size: 2.5rem;
+    color: var(--color4);
+}
+.item-3 p{
+    font-size: 1.5rem;
+    color: var(--color4);
+    margin-top: 3rem;
+}
+.item-3 h1{
+    font-size: 1.5rem;
+}
+.item-3 h2{
+    font-size: 1.5rem;
+    color: var(--color4);
+    margin-top: 5rem;
+}
+/********************************************/
+.pie{
+    width: 100%;
+    height: 100%;
+    margin-top: 5rem;
+    padding: 4rem;
+}
+.pie h3{
+    font-size: 2.5rem;
+}
+.pie h1{
+    font-size: 1.5rem;
+    color: var(--color2);
+}
+/*********************************************/
+.pie2{
+    width: 100%;
+    height: 100%;
+    margin-top: 5rem;
+}
+.pie h3{
+    font-size: 2.5rem;
+    margin-top: 3rem;
+}
+.pie p{
+    font-size: 2rem;
+    margin-top: 1rem;
+   
+    color: var(--color2);
+}
+.pie .correo{
+    color: var(--color1);
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+.pie h1{
+    font-size: 1.5rem;
+    color: var(--color2);
+}
+.Engl{
+    text-decoration: none;
+    display: block;
+    width: 21rem;
+    height: 5rem;
+    color: var(--color2);
+    font-size: 1.8rem;
+    font-weight: 600;
+    border: solid 1px rgb(168, 167, 167);
+    padding: 1rem 2rem;
+    border-radius: 3rem;
+    margin-left: 1px;
+    margin-top: 4rem;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Tabajamos{
+    margin-top: 6rem;
+    display:flex;
+    flex-direction:row;
+    width: 37.5rem;
+    height: 5rem;
+}
+.Tabajamos .img1{
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem 1rem 2rem 2rem;
+    display:flex;
+    flex-direction: column;
+}
+.Tabajamos .img2{
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem 0 2rem 0.5rem;
+    display:flex;
+    flex-direction: column;
+}
+.Tabajamos .img3{
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem 0 2rem 1rem;
+    display:flex;
+    flex-direction: column;
+}
+.Tabajamos h1{
+    font-size: 1rem;
+    color: var(--color3);
+}
